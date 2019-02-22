@@ -36,7 +36,7 @@ const config = {
 
   // redis 设置
   redis: {
-    port: 6379,
+    port: 6389,
     host: '127.0.0.1',
     pass: "4f93d80374f20",
     // 存储抓取文章列表的 key 名称
