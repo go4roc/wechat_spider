@@ -31,7 +31,7 @@ const config = {
 
   // mongo 数据库设置
   mongodb: {
-    db: 'mongodb://127.0.0.1:27017/wechat_spider'
+    db: 'mongodb://spider:htwed20190222@127.0.0.1:27017/wechat_spider'
   },
 
   // redis 设置
